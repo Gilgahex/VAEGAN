@@ -7,5 +7,7 @@ VAEGANs Unite!
 
 ToDo:
 Code Analysis / Read thru
+
 Extend Code to RGB
+
 Convert to MNIST format
