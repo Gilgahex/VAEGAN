@@ -6,8 +6,8 @@ Our project's goal is to be able to generate new video footage from existing vid
 
 
 ## General Plan
-+ Code Analysis / Read thru
-+ Extend Code to RGB
++ Code Analysis / Read thru of existing MNIST model
++ Extend Code to three dimensions: B&W --> RGB
 + Convert to MNIST format
 
 ## 7/27/2017
