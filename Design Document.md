@@ -1,13 +1,24 @@
 # VAEGAN
 VAEGANs Unite!
-
+Our project's goal is to be able to generate new video footage from existing videos.
 
 [VAE Explained](http://kvfrans.com/variational-autoencoders-explained/)
 
 
-ToDo:
-Code Analysis / Read thru
+## General Plan
++ Code Analysis / Read thru
++ Extend Code to RGB
++ Convert to MNIST format
 
-Extend Code to RGB
+## 7/27/2017
+Accomplished today:
++ Set up everyone to work with Python on their machine
++ Refresh knowledge of adversarial neural networks (ANN) and VAE technique
++ Look through existing MNIST code and run training program on Jupyter
 
-Convert to MNIST format
+Next steps:
++ Make sure everyone is able to comfortably manipulate MNIST model by next week
+    + Understand what each piece of code is doing!
++ Continue reviewing VAE concepts
++ Develop tangible goals and timeline for this project
+
