@@ -23,6 +23,10 @@ Our project's goal is to be able to generate new video footage from existing vid
 + Extend Code to three dimensions: B&W --> RGB
 + Convert to MNIST format
 
+Update:
++ Convert B&W image into MNIST format
++ 
+
 ## 7/27/2017
 Accomplished today:
 + Set up everyone to work with Python on their machine
@@ -35,3 +39,12 @@ Next steps:
 + Continue reviewing VAE concepts
 + Develop tangible goals and timeline for this project
 
+## 8/3/2017
+Accomplished today:
++ Ran VAE number replication project from Brian's github
++ Researched MNIST and determined future steps for recreating other images
+
+Next steps:
++ Continue researching concepts (VAE, GAN, MNIST, etc.)
++ Figure out how to convert images to MNIST format
++ Run model with new image
