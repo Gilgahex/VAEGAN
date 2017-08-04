@@ -1,9 +1,22 @@
 # VAEGAN
+
+## Contributors
++ Conor OBrien
++ Jay Singh
++ Shakuntala Mitra
++ Shon Inouye
+
+## Table of Contents
++ Step 1: Get data
++ Step 2: Neural Networks...?
++ Step 3: ???
++ Step 4: Profit
+
+## Abstract
 VAEGANs Unite!
 Our project's goal is to be able to generate new video footage from existing videos.
 
 [VAE Explained](http://kvfrans.com/variational-autoencoders-explained/)
-
 
 ## General Plan
 + Code Analysis / Read thru of existing MNIST model
