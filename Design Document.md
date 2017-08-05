@@ -41,7 +41,7 @@ Next steps:
 
 ## 8/3/2017
 Accomplished today:
-+ Ran VAE number replication project from Brian's github
++ Ran VAE number replication project from Conor's github
 + Researched MNIST and determined future steps for recreating other images
 
 Next steps:
