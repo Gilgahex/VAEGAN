@@ -48,3 +48,18 @@ Next steps:
 + Continue researching concepts (VAE, GAN, MNIST, etc.)
 + Figure out how to convert images to MNIST format
 + Run model with new image
+
+## 8/8/2017
+Accomplished today:
++ Brainstormed ideas for adapting MNIST model to RGB (1 channel to 3 channels)
+    + Discussed compression techniques (ex. Lossy, Hilbert curves, etc.)
+    + Increasing the number of adversarial networks?
++ Discussing ideas for image continuity
++ Refining our project idea
+    + Is the original project code transferable?
++ Chose a starting video/gif for our training set
+
+Next steps:
++ Continue researching concepts (VAE, GAN, MNIST, etc.)
++ Figure out how to convert images to MNIST format
++ Write up a simple model in Python
