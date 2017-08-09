@@ -1,3 +1,4 @@
+
 # VAEGAN
 
 ## Contributors
@@ -62,4 +63,5 @@ Accomplished today:
 Next steps:
 + Continue researching concepts (VAE, GAN, MNIST, etc.)
 + Figure out how to convert images to MNIST format
-+ Write up a simple model in Python
++ Find similar video processing projects as examples
++ Write up a simple model skeleton in Python
