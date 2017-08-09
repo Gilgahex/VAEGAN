@@ -55,9 +55,10 @@ Accomplished today:
 + Brainstormed ideas for adapting MNIST model to RGB (1 channel to 3 channels)
     + Discussed compression techniques (ex. Lossy, Hilbert curves, etc.)
     + Increasing the number of adversarial networks?
-+ Discussing ideas for image continuity
++ Discussing image continuity
 + Refining our project idea
     + Is the original project code transferable?
+    + Generate new footage from old footage without accounting for temporal continuation
 + Chose a starting video/gif for our training set
 
 Next steps:
