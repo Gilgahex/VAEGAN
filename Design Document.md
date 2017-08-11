@@ -66,3 +66,15 @@ Next steps:
 + Figure out how to convert images to MNIST format
 + Find similar video processing projects as examples
 + Write up a simple model skeleton in Python
+
+## 8/10/2017
+Accomplished today:
++ Redefined our project goals:
+    + Reconstruct an original image that is in the art style of *Rick and Morty* using MNIST
+    + Possible future steps from here: Generate more images, order them into a short video clip (like a trailer)
++ Researched MNIST and other machine learning, image classification, and image generation techniques
+
+Next steps:
++ Download frames from *Rick and Morty* TV episodes and create training and test datasets
++ Figure out how to convert images to MNIST format, either using original code or third-party software
++ Start building our MNIST model in Python using Tensorflow
