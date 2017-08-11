@@ -26,7 +26,6 @@ Our project's goal is to be able to generate new video footage from existing vid
 
 Update:
 + Convert B&W image into MNIST format
-+ 
 
 ## 7/27/2017
 Accomplished today:
@@ -75,6 +74,7 @@ Accomplished today:
 + Researched MNIST and other machine learning, image classification, and image generation techniques
 
 Next steps:
++ Move away from using MNIST model and continue researching other generative techniques and how to manipulate them
 + Download frames from *Rick and Morty* TV episodes and create training and test datasets
 + Figure out how to convert images to MNIST format, either using original code or third-party software
-+ Start building our MNIST model in Python using Tensorflow
++ Start building our generative model in Python using Tensorflow
