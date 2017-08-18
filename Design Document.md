@@ -85,4 +85,6 @@ Accomplished today:
 + Explore more about adversarial networks and 
 
 Next steps:
-+ 
++ Run tensorflow classification project (https://www.youtube.com/watch?v=QfNvhPx5Px8&feature=youtu.be)
++ Read documentation on different classification algorithms (KNN, Random Forests, Decision Trees, SVM, etc.)
+
