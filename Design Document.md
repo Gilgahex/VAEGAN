@@ -82,10 +82,8 @@ Next steps:
 ## 8/17/2017
 Accomplished today:
 + Take steps to make an image classifier for Rick and Morty images
-+ Explore more about adversarial networks and 
++ Explore more about Docker
++ 
 
 Next steps:
-+ Run tensorflow classification project (https://www.youtube.com/watch?v=QfNvhPx5Px8&feature=youtu.be)
-+ Read documentation on different classification algorithms (KNN, Random Forests, Decision Trees, SVM, etc.)
-+ Create README.md
-
++ 
