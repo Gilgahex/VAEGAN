@@ -78,3 +78,11 @@ Next steps:
 + Download frames from *Rick and Morty* TV episodes and create training and test datasets
 + Figure out how to convert images to MNIST format, either using original code or third-party software
 + Start building our generative model in Python using Tensorflow
+
+## 8/17/2017
+Accomplished today:
++ Take steps to make an image classifier for Rick and Morty images
++ Explore more about adversarial networks and 
+
+Next steps:
++ 
