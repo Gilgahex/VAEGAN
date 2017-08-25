@@ -93,8 +93,9 @@ Next steps:
 Accomplished today:
 + Made a README.md
 + Learn how to split and label training data
++ Intro to k-NN
 
 Next steps:
-+ Figure out how to save workspace on Docker
-+ Read documentation on different classification algorithms (KNN, Random Forests, Decision Trees, SVM, etc.)
++ Read documentation on k-NN
 + Create labels for training data set
+    + Go through frames, split into 2 folders (pictures with Rick and pictures w/o Rick), upload to Slack group
