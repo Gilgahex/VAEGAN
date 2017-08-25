@@ -99,3 +99,4 @@ Next steps:
 + Read documentation on k-NN
 + Create labels for training data set
     + Go through frames, split into 2 folders (pictures with Rick and pictures w/o Rick), upload to Slack group
++ Figure out Google Image Search API to be able to pull images for testing our model
