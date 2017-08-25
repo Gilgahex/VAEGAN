@@ -88,3 +88,13 @@ Next steps:
 + Run tensorflow classification project (https://www.youtube.com/watch?v=QfNvhPx5Px8&feature=youtu.be)
 + Read documentation on different classification algorithms (KNN, Random Forests, Decision Trees, SVM, etc.)
 + Create README.md
+
+## 8/24/2017
+Accomplished today:
++ Made a README.md
++ Learn how to split and label training data
+
+Next steps:
++ Figure out how to save workspace on Docker
++ Read documentation on different classification algorithms (KNN, Random Forests, Decision Trees, SVM, etc.)
++ Create labels for training data set
