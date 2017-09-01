@@ -100,3 +100,16 @@ Next steps:
 + Create labels for training data set
     + Go through frames, split into 2 folders (pictures with Rick and pictures w/o Rick), upload to Slack group
 + Figure out Google Image Search API to be able to pull images for testing our model
+
+## 8/31/2017
+Accomplished this week:
++ Separated the data and labelled it
++ Started building k-NN classifier for Morty
+
+Next steps:
++ Have a working implementation of k-NN
++ "Clean the data"
+    + Load all necessary Python packages
+    + Read in the data
+    + Prep images for feature extraction (aka turn them into vectors)
+    + Split into test and training data sets
