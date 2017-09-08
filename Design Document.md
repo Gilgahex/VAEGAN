@@ -113,3 +113,12 @@ Next steps:
     + Read in the data
     + Prep images for feature extraction (aka turn them into vectors)
     + Split into test and training data sets
+
+## 9/7/2017
+Accomplished today:
++ Installed the necessary Python packages to run the k-NN model
++ Started running code
+
+Next steps:
++ Everyone try to train the model
++ Update GitHub and Inertia7 w/ working code
