@@ -1,0 +1,8 @@
+# Morty Classifier
+## Installing Required Software
+
+    virtualenv python3 venv
+    pip install sklearn
+    pip install numpy
+    pip install imutils
+    pip freeze --local > requirements.txt
