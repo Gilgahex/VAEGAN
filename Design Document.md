@@ -122,3 +122,13 @@ Accomplished today:
 Next steps:
 + Everyone try to train the model
 + Update GitHub and Inertia7 w/ working code
+
+## 9/14/17
+Accomplished today:
++ Ran KNN model on Rick and Morty images and got >90% accuracy
+
+Next steps:
++ Update GitHub and Intertia7 w/ working code
++ Train on more images
++ Show misclassified images
++ Research other models 
