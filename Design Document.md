@@ -135,9 +135,11 @@ Next steps:
 
 ## 9/27/2017
 Accomplished today:
-+
-+
++ Run k-NN classifier w/ images in greyscale, compare accuracy to test with the RGB images
++ Start looking into SVM and Random Forest
 
 Next steps:
-+
-+
++ Investigate the greyscale k-NN results
++ Update GitHub and Inertia7 w/ working code
++ Train on more images
++ Investigate SVM and Random Forest algorithms
