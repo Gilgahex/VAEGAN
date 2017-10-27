@@ -143,3 +143,5 @@ Next steps:
 + Update GitHub and Inertia7 w/ working code
 + Train on more images
 + Investigate SVM and Random Forest algorithms
+
+## 10/26/2017 : Project progress resumed
